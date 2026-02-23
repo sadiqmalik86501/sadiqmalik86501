@@ -3,7 +3,7 @@
 <!<h1 align="center">Hi 👋, I'm Sadiq Malik</h1>
 <h3 align="center">A passionate AIML from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://share.google/Jw56iIYTISU54L7i5](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqmalik86501&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqmalik86501" /> </p>
 
