@@ -1,8 +1,7 @@
-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/4dc69541-6587-47fc-a7a7-a73565608bf3" /><h1 align="center">Hi 👋, I'm Sadiq Malik</h1>
+<h1 align="center">Hi 👋, I'm Sadiq Malik</h1>
 <h3 align="center">A passionate AIML from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqmalik86501&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqmalik86501" /> </p>
 
 - 🌱 I’m currently learning **Learn AIML Course**
