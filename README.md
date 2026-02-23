@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlSwueBYMHAbpDKj7EdnbwvH13rp-i5arQg&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqmalik86501&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqmalik86501" /> </p>
 
-- 🌱 I’m currently learning **Learn AIML Course**
+- 🌱 I’m currently learning ** AIML Course**
 
 - 📫 How to reach me **sadiqmalik86501@gmail.com**
 
